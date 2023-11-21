@@ -61,8 +61,8 @@ Open different numbers of fingers to control the corresponding LEDs.
 Syed Mohsin Bukhari  
 - **Email:** smayour82@gmail.com  
 - [**Visit Website**](https://mayourbukhari.github.io/Personal-Portfolio)  
-- [**LinkedIn**](www.linkedin.com/in/syed-mohsin-bukhari)  
-- [**X**](https://twitter.com/bukharimayour)  
+- [**LinkedIn**](https://www.linkedin.com/in/syed-mohsin-bukhari/)  
+- [**X**](https://twitter.com/ArraySurvey)  
 - [**GitHub**](https://github.com/mayourbukhari)  
 - [**Instagram**](https://www.instagram.com/mayour_writes)  
 
