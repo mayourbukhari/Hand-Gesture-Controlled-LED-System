@@ -14,11 +14,7 @@ This project is a hand gesture-controlled LED system using Python, OpenCV, and P
 
 Check out the demo video:
 
-<video width="640" height="360" controls>
-  <source src="/LED Controller/LED Controller/demo.mp4" type="demo/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[![Video](https://img.youtube.com/vi/1pSnCrdN_1A/0.jpg)](https://youtu.be/1pSnCrdN_1A?si=1sNCPVHT1DKhyisF)
 
 ## Requirements
 - Python 3.x
